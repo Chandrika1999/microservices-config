@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local APIs in qa-testing"
+  message: "Welcome to Bank accounts related local APIs in qa-Testing"
   contactDetails:
     name: "John Doe - qa"
     email: "{cipher}72d81d6425a4c1533c8fedb3c678f1ae73a9f0db091cf742d1a19c56e6530558df508f9b2ab7c47f96ab263a1914e967"
